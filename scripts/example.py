@@ -3,7 +3,7 @@ import sys
 
 
 def main():
-    print("hello world!")
+    
     x = 8
     y = 9
     print(x*y)
