@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.first {
+    background-color: lightgray;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.ten {
+    border: solid 10px greenyellow;
+    text-align: center;
+}
+
+.weeks {
+    height: 300px;
+    width: 500px;
+    border-radius: 50px;
+    border: solid 5px;
+    text-align: center;
+}
+
+button {
+    background-color: hotpink;
+    transform: rotate(50deg);
+}
+
+a {
+    background-color: lightblue;
+    filter: brightness(20%);
+}
+
+ol {
+    background: linear-gradient(45deg, yellow, lightgreen);
+}
